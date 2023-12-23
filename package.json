@@ -1,0 +1,17 @@
+{
+  "name": "demo-package-ts",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "release-it": {},
+  "devDependencies": {
+    "release-it": "^17.0.1"
+  }
+}
