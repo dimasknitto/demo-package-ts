@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.1.0](https://github.com/dimasknitto/demo-package-ts/compare/v1.0.0...v1.1.0) (2023-12-23)
+
+
+### Features
+
+* new configuration for npm publish ([8536bfd](https://github.com/dimasknitto/demo-package-ts/commit/8536bfd867493e19fb548deecbc0c9ee3df7c5db))
+
 # [1.0.0](https://github.com/dimasknitto/demo-package-ts/compare/v0.3.0...v1.0.0) (2023-12-23)
 
 
