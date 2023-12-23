@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.0...v1.3.1) (2023-12-23)
+
+
+### Bug Fixes
+
+* configuration tsup ([fde36ee](https://github.com/dimasknitto/demo-package-ts/commit/fde36eefe9f57f59cf261d4a8a7afd3f73606745))
+
 # [1.3.0](https://github.com/dimasknitto/demo-package-ts/compare/v1.2.0...v1.3.0) (2023-12-23)
 
 
