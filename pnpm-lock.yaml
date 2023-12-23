@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  demo-package-ts:
+    specifier: 'link:'
+    version: 'link:'
+
 devDependencies:
   '@release-it/conventional-changelog':
     specifier: ^8.0.1
