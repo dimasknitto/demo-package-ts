@@ -2,9 +2,14 @@
   "name": "demo-package-ts",
   "version": "1.1.2",
   "description": "testing",
-  "main": "src/index.ts",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+      "dist"
+   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup",
     "release": "release-it"
   },
   "keywords": [],
@@ -45,6 +50,7 @@
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
     "release-it": "^17.0.1",
+    "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }
 }
