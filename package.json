@@ -13,11 +13,15 @@
   "release-it": {
     "git": {
       "commitMessage": "chore: release v${version}",
+      "push": true,
+      "commit": true,
+      "tag": true,
       "tagName": "v${version}"
     },
     "github": {
       "release": true,
       "releaseName": "v${version}",
+      "draft": true,
       "releaseNotes": "git log --no-merges --pretty=format:\"* %s %h\" ${latestTag}...main",
       "assets": [
         "dist/*.js"
