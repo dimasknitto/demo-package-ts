@@ -8,8 +8,12 @@
     "release": "release-it"
   },
   "keywords": [],
-  "author": "",
+  "author": "dimas knitto",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimasknitto/demo-package-ts.git"
+  },
   "release-it": {
     "git": {
       "commitMessage": "chore: release v${version}",
