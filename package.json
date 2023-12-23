@@ -50,6 +50,7 @@
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.1",
     "release-it": "^17.0.1",
+    "ts-node": "^10.9.2",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }
