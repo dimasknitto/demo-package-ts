@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.3.0](https://github.com/dimasknitto/demo-package-ts/compare/v1.2.0...v1.3.0) (2023-12-23)
+
+
+### Features
+
+* add build new tsup ([ce71dcc](https://github.com/dimasknitto/demo-package-ts/commit/ce71dcc275f58417cbc1935f42bf16a7cc62e0f2))
+
 # [1.2.0](https://github.com/dimasknitto/demo-package-ts/compare/v1.1.2...v1.2.0) (2023-12-23)
 
 
