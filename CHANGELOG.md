@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.0.0](https://github.com/dimasknitto/demo-package-ts/compare/v0.3.0...v1.0.0) (2023-12-23)
+
+
+### Bug Fixes
+
+* add new configuration push; ([2c110d6](https://github.com/dimasknitto/demo-package-ts/commit/2c110d6cb5da44c8751c6e9623d83843b916905d))
+
 # 0.3.0 (2023-12-23)
 
 
