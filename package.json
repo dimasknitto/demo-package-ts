@@ -1,7 +1,7 @@
 {
   "name": "demo-package-ts",
   "version": "1.1.0",
-  "description": "",
+  "description": "testing",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
