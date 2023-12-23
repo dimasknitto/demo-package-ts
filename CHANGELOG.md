@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.2.0](https://github.com/dimasknitto/demo-package-ts/compare/v1.1.2...v1.2.0) (2023-12-23)
+
+
+### Features
+
+* new configuration for typescript ([c598873](https://github.com/dimasknitto/demo-package-ts/commit/c598873b0c4e2687b8f8d25b6f996e3ca8a16891))
+
 ## [1.1.2](https://github.com/dimasknitto/demo-package-ts/compare/v1.1.1...v1.1.2) (2023-12-23)
 
 

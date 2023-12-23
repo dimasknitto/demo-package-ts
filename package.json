@@ -1,13 +1,13 @@
 {
   "name": "demo-package-ts",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "testing",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "files": [
-      "dist"
-   ],
+    "dist"
+  ],
   "scripts": {
     "build": "tsup",
     "release": "release-it"
