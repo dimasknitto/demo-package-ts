@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/dimasknitto/demo-package-ts/compare/v1.1.1...v1.1.2) (2023-12-23)
+
+
+### Bug Fixes
+
+* add url github ([a4223fe](https://github.com/dimasknitto/demo-package-ts/commit/a4223feacf0ab4fd8c1bd4f04213ea5b045dcdc3))
+
 ## [1.1.1](https://github.com/dimasknitto/demo-package-ts/compare/v1.1.0...v1.1.1) (2023-12-23)
 
 
