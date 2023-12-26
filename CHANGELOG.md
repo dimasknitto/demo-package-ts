@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.1...v1.3.2) (2023-12-26)
+
+
+### Bug Fixes
+
+* types ([995097d](https://github.com/dimasknitto/demo-package-ts/commit/995097d54eed1630e40db120e681d5454e06c8e3))
+
 ## [1.3.1](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.0...v1.3.1) (2023-12-23)
 
 
