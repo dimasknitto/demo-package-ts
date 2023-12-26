@@ -1,4 +1,3 @@
-import functionSum from './functionSum';
+import functionSum, { SumType } from './functionSum';
 
-export type { SumType } from './types/index'
-export { functionSum }
+export { functionSum, SumType }
