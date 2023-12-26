@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.4](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.3...v1.3.4) (2023-12-26)
+
+
+### Bug Fixes
+
+* new type export ([8593a2c](https://github.com/dimasknitto/demo-package-ts/commit/8593a2cf8083554cb5861a14d73f00026681ef30))
+
 ## [1.3.3](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.2...v1.3.3) (2023-12-26)
 
 
