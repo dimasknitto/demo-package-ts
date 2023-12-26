@@ -1,3 +1,2 @@
-import functionSum, { SumType } from './functionSum';
-
-export { functionSum, SumType }
+export { default as functionSum } from './functionSum';
+export type { SumType } from './functionSum';
