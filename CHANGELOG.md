@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.3.6](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.5...v1.3.6) (2023-12-26)
+
 ## [1.3.5](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.4...v1.3.5) (2023-12-26)
 
 
