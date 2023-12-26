@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.4.0](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.7...v1.4.0) (2023-12-26)
+
+
+### Features
+
+* express config ([900362d](https://github.com/dimasknitto/demo-package-ts/commit/900362d610401015fffbcbdfac2febb0a11af371))
+
 ## [1.3.7](https://github.com/dimasknitto/demo-package-ts/compare/v1.3.6...v1.3.7) (2023-12-26)
 
 
